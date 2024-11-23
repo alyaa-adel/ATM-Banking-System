@@ -1,0 +1,9 @@
+transaction_id,user_id,amount,transaction_type,date
+1,1,100,deposit,20/11/2024
+2,2,50,withdraw,20/11/2024
+41,1,100.00,Deposit,2024-11-22
+41,1,156.00,Deposit,2024-11-22
+41,1,400.00,Deposit,2024-11-23
+467,1,20.00,Withdraw,2024-11-23
+41,1,300.00,Deposit,2024-11-23
+467,1,300.00,Withdraw,2024-11-23
